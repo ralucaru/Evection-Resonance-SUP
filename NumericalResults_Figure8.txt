@@ -1,0 +1,65 @@
+% Supplemental Online Materials:Tidal Evolution of the Evection Resonance/Quasi-Resonance and the Angular Momentum of the Earth-Moon System
+% R.Rufu  and  R. M. Canup
+% JGR 2020
+% The table contains numerical results described in Figure 8
+% Note: Angular momentum values are normalized to C Omega_Earth, where C is Earth's moment of inertia and Omega_Earth is the orbital frequency at 1 Earth Radii
+% Note: NaN values in column \#3 [\#4] depict cases where a QR [non-QR] evolution did not occur.
+% A	 Q_eff/kT	L'_final_QR	L'_final_NonQR	Frac_QR
+
+  100	4.1633e+01	NaN	0.772	0.00
+  100	8.3267e+01	NaN	0.769	0.00
+  100	2.0817e+02	NaN	0.766	0.00
+  100	4.0801e+02	NaN	0.764	0.00
+  100	3.3307e+03	NaN	0.759	0.00
+  100	1.9984e+04	NaN	0.754	0.00
+  300	2.0817e+01	NaN	0.772	0.00
+  300	8.3267e+01	0.518	0.772	0.10
+  300	4.0801e+02	0.387	0.770	0.60
+  300	6.2450e+02	0.362	0.770	0.50
+  300	8.0769e+02	0.351	0.770	0.30
+  300	1.6653e+03	0.302	0.769	0.30
+  300	3.3307e+03	0.272	0.769	0.80
+  300	6.6613e+03	0.226	0.768	0.60
+  500	2.0817e+01	NaN	0.772	0.00
+  500	4.1633e+01	NaN	0.772	0.00
+  500	8.3267e+01	0.539	0.772	0.80
+  500	2.0817e+02	0.464	NaN	1.00
+  500	4.0801e+02	0.413	NaN	1.00
+  500	6.2450e+02	0.390	NaN	1.00
+  500	8.0769e+02	0.371	NaN	1.00
+  500	1.6653e+03	0.324	NaN	1.00
+  500	3.3307e+03	0.271	NaN	1.00
+  500	6.6613e+03	0.235	NaN	1.00
+  500	8.3267e+03	0.226	NaN	1.00
+  500	1.9984e+04	0.226	NaN	1.00
+ 1000	4.1633e+01	NaN	0.772	0.00
+ 1000	8.3267e+01	0.603	0.772	0.60
+ 1000	2.0817e+02	0.503	NaN	1.00
+ 1000	4.0801e+02	0.435	NaN	1.00
+ 1000	6.2450e+02	0.411	NaN	1.00
+ 1000	8.0769e+02	0.384	NaN	1.00
+ 1000	1.6653e+03	0.345	NaN	1.00
+ 1000	3.3307e+03	0.298	NaN	1.00
+ 1000	6.6613e+03	0.257	NaN	1.00
+ 1000	1.2490e+04	0.238	NaN	1.00
+ 5000	4.1633e+01	NaN	0.772	0.00
+ 5000	8.3267e+01	NaN	0.772	0.00
+ 5000	2.0817e+02	0.558	NaN	1.00
+ 5000	4.0801e+02	0.506	NaN	1.00
+ 5000	6.2450e+02	0.475	NaN	1.00
+ 5000	8.0769e+02	0.455	NaN	1.00
+ 5000	1.6653e+03	0.406	NaN	1.00
+ 5000	3.3307e+03	0.366	NaN	1.00
+ 5000	6.6613e+03	0.330	NaN	1.00
+ 5000	1.2490e+04	0.301	NaN	1.00
+ 5000	1.9984e+04	0.281	NaN	1.00
+10000	8.3267e+01	NaN	0.772	0.00
+10000	2.0817e+02	0.633	NaN	1.00
+10000	4.0801e+02	0.572	NaN	1.00
+10000	6.2450e+02	0.533	NaN	1.00
+10000	8.0769e+02	0.511	NaN	1.00
+10000	1.6653e+03	0.457	NaN	1.00
+10000	3.3307e+03	0.411	NaN	1.00
+10000	6.6613e+03	0.369	NaN	1.00
+10000	1.2490e+04	0.334	NaN	1.00
+10000	1.9984e+04	0.308	NaN	1.00
